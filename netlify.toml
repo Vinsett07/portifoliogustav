@@ -1,4 +1,4 @@
-# Portfólio estático: sem etapa de build e sem dependências de runtime.
+# Site estático de portfólio. O deploy atual é do tipo Netlify Drop.
 [build]
   publish = "."
   command = ""
@@ -7,11 +7,17 @@
   for = "/*"
   [headers.values]
     X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "strict-origin-when-cross-origin"
     X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
 
 [[headers]]
   for = "/index.html"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/certificados/*"
+  [headers.values]
+    Content-Disposition = "inline"
+    X-Content-Type-Options = "nosniff"
