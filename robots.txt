@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfoliogustavoaires.netlify.app/sitemap.xml
