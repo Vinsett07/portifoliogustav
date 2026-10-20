@@ -1,65 +1,69 @@
-# Gustavo Aires | Portfólio Profissional
+# Gustavo Aires — Portfólio profissional
 
-**Produção industrial · Qualidade · Operações · Desenvolvimento de Software**
+Site institucional pessoal que conecta **produção industrial, qualidade, operações, desenvolvimento de software e inteligência artificial**.
 
-Manaus, Amazonas, Brasil · [LinkedIn](https://www.linkedin.com/in/gustavo-aires-a66497351) · Contato: airesgustavo@hotmail.com
+**Site público existente:** https://portfoliogustavoaires.netlify.app/  
+**Repositório de origem:** https://github.com/Vinsett07/portifoliogustav  
+**Perfil profissional:** https://www.linkedin.com/in/gustavo-aires-a66497351
 
-## Sobre mim
-Profissional com experiência em montagem industrial, inspeção final de motores, apoio operacional e acompanhamento de equipes. Atuação na Yamaha Motor da Amazônia, Mottu e G&A Promotoria. Em paralelo, desenvolvo competências em programação, aplicações web, APIs, inteligência artificial e automação.
+> **Publicação:** o site Netlify atual foi criado com *Drop Deployment* e não está vinculado a este repositório. Os commits nesta pasta **não atualizam automaticamente** a URL pública. Para colocar esta nova versão no ar é necessário enviar o pacote de publicação ao **projeto Netlify já existente**.
 
-## Experiência profissional
-### G&A Promotoria — Promotor de vendas e apoio operacional
-**Dezembro de 2025 – agosto de 2026**
-- Treinamento de mais de 15 pessoas e acompanhamento de aproximadamente 11 colaboradores em Mato Grosso e Roraima.
-- Controle de estoque, reposição, documentação fiscal e planilhas para acompanhamento operacional.
+## Conteúdo
 
-### Mottu — Auxiliar de produção
-**Março de 2025**
-- Submontagem de conjuntos de faróis dianteiros destinados à instalação no chassi.
-- Abastecimento da esteira de produção e suporte à continuidade do fluxo de montagem final.
+- Apresentação e competências em indústria, qualidade, gestão e tecnologia.
+- Linha do tempo de experiências: **Yamaha Motor da Amazônia, Mottu e G&A Promotoria**.
+- Estudo de caso da G&A Promotoria: treinamento, dados operacionais, 254 atendimentos e 35 pontos de venda registrados no controle apresentado.
+- Estudo de caso técnico **VINSETT Budget API**, preservado da versão publicada anteriormente.
+- Projetos **VINSETT Forge AI, AI Software Factory, VINSETT Sinais e VINSETT Budget API**, com links para seus repositórios.
+- Catálogo de **12 cursos e certificações** (total **480 horas** nos cursos cuja carga foi informada) com filtros e pesquisa.
+- **11 comprovantes PDF** disponíveis na pasta `certificados/`; documentos com CPF ou RG foram preparados como versões públicas com os respectivos números ocultados.
+- Currículo atualizado para download e links profissionais.
 
-### Yamaha Motor da Amazônia — Membro de equipe de produção
-**Dezembro de 2020 – junho de 2024**
-- Montagem de motores, incluindo engrenagens primária e secundária e bomba de óleo.
-- Aprendizado de diferentes modelos de motores, com autonomia operacional.
-- Atuação posterior em inspeção final de motores de maior cilindrada.
-- Treinamentos internos em Brigada de Incêndio, NR-12, Pneumática e Talhas.
+O certificado **Google — AI for App Deployment** consta do catálogo, porém seu PDF não foi fornecido e, por isso, não aparece como documento para download. Treinamentos internos realizados na Yamaha (NR-12, Brigada, Pneumática e Talhas) estão descritos separadamente; não são somados às 480 horas por falta de documentação da respectiva carga horária.
 
-## Formação acadêmica
-- **Técnico em Radiologia** — Denizard Rivail (2020).
-- **Ensino Médio** — Escola Estadual Ruy Araújo (2016).
+## Cursos registrados
 
-## Cursos e certificações
-| Curso / certificação | Instituição | Carga horária |
+| Curso | Instituição | Horas |
 |---|---|---:|
-| Inspetor da Qualidade | Centro de Aprendizagem Excelência (CAE), maio/2025 | 120h |
-| Matemática Básica | Centro de Aprendizagem Excelência (CAE), maio/2025 | 80h |
-| React: Construindo Single Page Applications Dinâmicas | IFRS / Aprenda Mais | 40h |
-| Python Fundamental 1 | IFSC / Aprenda Mais | 20h |
-| Node.js: Introdução ao Desenvolvimento de APIs Modernas | IFRS / Aprenda Mais | 40h |
-| HTML5: Fundamentos para Construção de Páginas Web Modernas | IFRS / Aprenda Mais | 40h |
-| Banco de Dados 1: Fundamentos | IFRS / Aprenda Mais | 20h |
-| Análise e Projeto de Software | IFRS / Aprenda Mais | 20h |
-| Fundamentos Básicos de Energia Fotovoltaica Residencial | IFTM / Aprenda Mais | 20h |
-| TBO — Treinamento Básico Operacional | Mega Cursos e Treinamentos, agosto/2020 | 20h |
-| AI for App Deployment | Google, agosto/2026 | Não informada |
+| Inspetor da Qualidade | CAE | 120 |
+| Matemática Básica | CAE | 80 |
+| Gestão de Cooperativa | IFAM | 60 |
+| TBO — Treinamento Básico Operacional | Mega Cursos | 20 |
+| Fundamentos Básicos de Energia Fotovoltaica Residencial | IFTM / Aprenda Mais | 20 |
+| React: Construindo Single Page Applications Dinâmicas | IFRS / Aprenda Mais | 40 |
+| Python Fundamental 1 | IFSC / Aprenda Mais | 20 |
+| Node.js: Introdução ao Desenvolvimento de APIs Modernas | IFRS / Aprenda Mais | 40 |
+| HTML5: Fundamentos para Construção de Páginas Web Modernas | IFRS / Aprenda Mais | 40 |
+| Banco de Dados 1: fundamentos | IFRS / Aprenda Mais | 20 |
+| Análise e Projeto de Software | IFRS / Aprenda Mais | 20 |
+| AI for App Deployment | Google | Não informada |
 
-**Total com carga horária documentada acima: 420 horas**, incluindo 200 horas dos sete cursos Aprenda Mais. Treinamentos internos da Yamaha não foram somados porque não há carga horária confirmada.
+**Total com horas documentadas: 480h.** A presença de uma certificação no portfólio não significa que o curso tenha reconhecimento individual pelo MEC; os nomes das instituições são informados conforme os comprovantes.
 
-**Registros CAE:** Inspetor da Qualidade nº 0009396; Matemática Básica nº 0009453. Os PDFs originais podem ser apresentados mediante solicitação. Não são publicados neste repositório para evitar exposição desnecessária de dados pessoais.
+## Arquivos
 
-## Competências
-- **Indústria:** montagem de motores, inspeção final, submontagem de chassi, qualidade, segurança, organização de linha e estoque.
-- **Operações:** treinamento de equipes, controle documental, relatórios e planilhas.
-- **Tecnologia:** HTML5, JavaScript, React, Node.js, Python, bancos de dados, APIs, IA generativa e automação.
+```
+index.html                      Página principal
+styles.css                      Estilo e responsividade
+script.js                       Navegação, filtros e busca
+Curriculo_Gustavo_Aires.pdf     Currículo mais recente
+certificados/*.pdf              11 certificados para consulta pública
+netlify.toml                    Configuração de deploy e segurança
+robots.txt / sitemap.xml        Indexação
+```
 
-## Projetos no GitHub
-- [VINSETT Forge AI](https://github.com/Vinsett07/vinsett-forge-ai)
-- [VINSETT AI Software Factory](https://github.com/Vinsett07/vinsett-ai-software-factory)
-- [VINSETT Budget API](https://github.com/Vinsett07/vinsett-budget-api)
-- [VINSETT Sinais](https://github.com/Vinsett07/vinsett-sinais)
+## Publicar sem criar outro site
 
-> Os links apontam para os repositórios de projetos. A existência de cada repositório não significa que todas as funcionalidades estejam publicadas ou concluídas.
+1. Abra https://app.netlify.com/projects/portfoliogustavoaires/deploys.
+2. Confira que está no projeto **portfoliogustavoaires** existente.
+3. Utilize a publicação manual (arrastar e soltar) da pasta com estes arquivos ou do ZIP de publicação preparado.
+4. Aguarde **Ready/Published**. Confira no endereço público os dois estudos de caso, o catálogo dos cursos, 11 documentos PDF e os links profissionais.
 
----
-*Atualizado em outubro de 2026. Informações profissionais consolidadas a partir do currículo e dos certificados fornecidos.*
+A configuração de build é estática: `publish = "."`, sem compilação ou dependências npm.
+
+## Privacidade e manutenção
+
+- Não publique versões originais de certificados que contenham CPF, RG ou outros dados pessoais desnecessários.
+- As versões públicas mantêm as informações profissionais relevantes, ocultando esses números.
+- Verifique cursos, datas e detalhes pessoais sempre que o currículo for atualizado.
+- Este repositório usa código estático local. Não é necessário incorporar repositórios terceiros da lista My Stack para habilitar hospedagem.
